@@ -68,7 +68,7 @@
     line-height: 1.7;
   }
   .scroll {
-    background-image: url("https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1600");
+    background-image: url("https://i.postimg.cc/hv76wLFK/comedor-cc.webp");
     background-attachment: scroll; /* default: la imagen viaja con el elemento */
   }
 
@@ -101,7 +101,7 @@
 
   /* Cada sección tiene su propia imagen */
   #inicio {
-    background-image: url('https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1600');
+    background-image: url('https://i.postimg.cc/136R6F4d/colombia-foto.jpg');
   }
 
   #segunda {
